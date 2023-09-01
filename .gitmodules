@@ -1,3 +1,6 @@
 [submodule "Router-Dataplane"]
 	path = Router-Dataplane
 	url = https://github.com/StefanIv21/Router-Dataplane.git
+[submodule "tcp-udp-client-server-subscribe-application"]
+	path = tcp-udp-client-server-subscribe-application
+	url = https://github.com/StefanIv21/tcp-udp-client-server-subscribe-application.git
