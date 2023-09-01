@@ -4,3 +4,6 @@
 [submodule "tcp-udp-client-server-subscribe-application"]
 	path = tcp-udp-client-server-subscribe-application
 	url = https://github.com/StefanIv21/tcp-udp-client-server-subscribe-application.git
+[submodule "REST-API-Bookstore"]
+	path = REST-API-Bookstore
+	url = https://github.com/StefanIv21/REST-API-Bookstore.git
