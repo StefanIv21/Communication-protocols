@@ -13,7 +13,7 @@ A series of university assigned projects:
 - It involves implementing both the TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) protocols.
 - The server acts as an intermediary for communication between TCP and UDP clients.
 
-## HTTP Client Book Store:
+## HTTP Client Books Store:
 - This client application connects to a REST API that serves and processes books in JSON format.
 - It can perform various HTTP requests, including GET, POST, and DELETE, to interact with the server.
 - The application handles authentication, tracks cookies and tokens, and implements the HTTP protocol for making HTTP requests to the server.
